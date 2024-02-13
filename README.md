@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salman-gsh
 - 👀 I’m interested in PHP,CSS and C#
 - 🌱 I’m currently learning PHP & C#
-- 📫 How to reach me? write me an E-Mail: info@salman-gishiev.de
+- 📫 How to reach me? write me an E-Mail: hello@salman-gishiev.de
 
 <!---
 salman-gsh/salman-gsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
